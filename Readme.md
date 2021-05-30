@@ -39,9 +39,9 @@
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://img.lovepik.com/element/40083/5433.png_860.png">
+    <img height="150" width="150" src="https://i.pinimg.com/originals/5a/4a/f6/5a4af6d23c1981fbe04d131c88c2031d.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://img.lovepik.com/element/40083/5433.png_860.png">
+    <img height="150" width="150" src="https://i.pinimg.com/originals/5a/4a/f6/5a4af6d23c1981fbe04d131c88c2031d.png">
   </a>
 </p>
 
