@@ -161,6 +161,17 @@
 <br/>
 <br/>
 </p>
+<a>
+    <img alt="Awesome Badges" src="https://img.shields.io/badge/badges-awesome-green.svg" />
+  </a>
+  <a>
+    <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
+  </a>
+  <a>
+    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=coder-KO.coder-KO" />
+  </a>
+</p>
+
 
 
 <div align="center">
@@ -172,3 +183,5 @@
 #
 
 ![footer](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-19-1024x256.png)
+
+<img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
