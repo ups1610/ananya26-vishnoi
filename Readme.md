@@ -137,7 +137,7 @@
     <code><img  height="60" width="60" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png"/></code>
   </a>
   <a href="https://www.instagram.com/_ananya_vishnoi_/" target="_blank">
-    <code><img height="60" width="60" src="https://i.dlpng.com/static/png/5588275-ig-logo-abundant-in-2019-instagram-logo-youtube-logo-ig-logo-transparent-1600_1200_preview.png"/></code>
+    <code><img height="60" width="60" src="https://proofmart.com/wp-content/uploads/2020/09/instagram-10-low.png"/></code>
   </a>
   <a href="https://twitter.com/AnanyaVishnoi3" target="_blank">
     <code><img height="60" width="60" src="https://image.flaticon.com/icons/png/512/60/60580.png"/></code>
