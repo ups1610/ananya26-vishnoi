@@ -39,9 +39,9 @@
 
 <p align="center">
   <a>
-    <img height="150" width="150" src="https://i.pinimg.com/originals/5a/4a/f6/5a4af6d23c1981fbe04d131c88c2031d.png">
+    <img height="180" width="150" src="https://i.pinimg.com/originals/5a/4a/f6/5a4af6d23c1981fbe04d131c88c2031d.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://i.pinimg.com/originals/5a/4a/f6/5a4af6d23c1981fbe04d131c88c2031d.png">
+    <img height="180" width="150" src="https://i.pinimg.com/originals/5a/4a/f6/5a4af6d23c1981fbe04d131c88c2031d.png">
   </a>
 </p>
 
@@ -146,24 +146,16 @@
   <a href="https://dev.to/ananya26vishnoi">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ananya Vishnoi DEV Profile" height="62" width="62"></code>
   </a>     
-</p>
-<br/>
-
-<p align="center">
   <a href="https://www.hackerrank.com/ananyavishnoi26" target="_blank">
     <code><img height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png"/></code>
   </a>
-  <p align="center">
-  <a href="https://github.com/ananya26-vishnoi">
+ <a href="https://github.com/ananya26-vishnoi">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
-
-
-<a href="https://www.hackerearth.com/@ananyavishnoi26" target="_blank">
+<p align="center"><a href="https://www.hackerearth.com/@ananyavishnoi26" target="_blank">
     <code><img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/hackerearth_logo_icon_145208.png"/></code>
   </a>
-
-  <a href="https://www.codechef.com/users/anni_26" target="_blank">
+<p align="center"><a href="https://www.codechef.com/users/anni_26" target="_blank">
     <code><img height="60" width="60" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png"/></code>
   </a>
 </p>
