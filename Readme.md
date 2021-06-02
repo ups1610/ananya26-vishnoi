@@ -26,10 +26,6 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ananya26-vishnoi?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/ananya26-vishnoi?label=Stars" alt="Total Stars">
 </p>
-<p align="center">
-  <code>
-   
-</p>
 
 #
 
