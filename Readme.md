@@ -132,7 +132,7 @@
     <code><img  height="60" width="60" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png"/></code>
   </a>
   <a href="https://www.instagram.com/_ananya_vishnoi_/" target="_blank">
-    <code><img height="60" width="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Finstagram-logo.html&psig=AOvVaw3v00p9g-FMjvm1NZMJwT_i&ust=1625313910794000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCID0laWsxPECFQAAAAAdAAAAABAD"/></code>
+    <code><img height="60" width="60" src="https://thumbs.dreamstime.com/b/instagram-logo-icon-voronezh-russia-november-square-black-color-164585975.jpg"/></code>
   </a>
   <a href="https://twitter.com/AnanyaVishnoi3" target="_blank">
     <code><img height="60" width="60" src="https://image.flaticon.com/icons/png/512/60/60580.png"/></code>
