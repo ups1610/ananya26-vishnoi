@@ -11,10 +11,10 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/EY93ZrEyn74w9rB3o0/giphy.gif">
 </a>
 
-- 🔭 I’m currently learning on **Data Structures and Web Development**
+- 🔭 I’m currently learning **Linux and Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for help with **Internships**
+- 🤔 I’m looking for help with **Internships **
 - 💬 Ask me about Anything! I am happy to help.
 - 😄 Pronouns : **She/Her**
 
