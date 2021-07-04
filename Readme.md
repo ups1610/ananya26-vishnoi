@@ -14,7 +14,7 @@
 - 🔭 I’m currently learning **Linux and Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for help with **Internships **
+- 🤔 I’m looking for help with **Internships**
 - 💬 Ask me about Anything! I am happy to help.
 - 😄 Pronouns : **She/Her**
 
